@@ -639,7 +639,6 @@ git commit -m “insert message here”
 ```bash
 git pull upstream
 ```
-
 You can also sync your fork directly on GitHub by clicking "Sync Fork" at the right of the screen and then clicking "Update Branch"
 
 <details>
