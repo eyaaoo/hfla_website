@@ -640,15 +640,19 @@ git commit -m “insert message here”
 git pull upstream
 ```
 
-THESE ARE THE UPDATES:
+```python
+Previous:
+```
 You can also sync your fork directly on GitHub by clicking "Sync Fork" at the right of the screen and then clicking "Update Branch"
 
 <details>
   <summary><strong>Click here</strong> to see how to sync the fork on GitHub</summary>
   <img src="https://docs.github.com/assets/cb-49937/images/help/repository/update-branch-button.png" />
 </details>
-END OF UPDATES !!!
 
+```python
+New:
+```
 You can also sync your fork directly on GitHub by clicking "Sync Fork" at the right of the screen and then clicking "Update Branch"
 
 <details>
